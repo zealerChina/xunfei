@@ -80,6 +80,6 @@ class Xunfei
 
     public function test()
     {
-        echo '德玛西亚, 万众一心, 哈哈哈哈';
+        echo '德玛西亚, 万众一心, 哈哈哈哈, 啦啦啦啦';
     }
 }
