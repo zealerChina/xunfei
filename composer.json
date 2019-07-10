@@ -1,0 +1,23 @@
+{
+    "name": "fuying/xunfei",
+    "description": "讯飞语音转写接口封装",
+    "keywords": [
+        "xunfei"
+    ],
+    "authors": [
+        {
+            "name": "Fuying Zhang",
+            "email": "zhangfuyinging@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3.3",
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fuying\\Xunfei\\": "src/"
+        }
+    }
+}
